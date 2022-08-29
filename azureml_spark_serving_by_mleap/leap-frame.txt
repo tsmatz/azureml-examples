@@ -1,0 +1,110 @@
+{
+  "schema": {
+    "fields": [
+      {
+        "name": "AltimeterOrigin",
+        "type": "double"
+      },
+      {
+        "name": "RelativeHumidityOrigin",
+        "type": "double"
+      },
+      {
+        "name": "DryBulbCelsiusDest",
+        "type": "double"
+      },
+      {
+        "name": "AltimeterDest",
+        "type": "double"
+      },
+      {
+        "name": "UNIQUE_CARRIER",
+        "type": "string"
+      },
+      {
+        "name": "ORIGIN",
+        "type": "string"
+      },
+      {
+        "name": "DewPointCelsiusDest",
+        "type": "double"
+      },
+      {
+        "name": "DEST",
+        "type": "string"
+      },
+      {
+        "name": "DAY_OF_WEEK",
+        "type": "double"
+      },
+      {
+        "name": "MONTH",
+        "type": "double"
+      },
+      {
+        "name": "RelativeHumidityDest",
+        "type": "double"
+      },
+      {
+        "name": "CRS_DEP_TIME",
+        "type": "double"
+      },
+      {
+        "name": "VisibilityDest",
+        "type": "double"
+      },
+      {
+        "name": "ARR_DEL15",
+        "type": "string"
+      },
+      {
+        "name": "VisibilityOrigin",
+        "type": "double"
+      },
+      {
+        "name": "WindSpeedOrigin",
+        "type": "double"
+      },
+      {
+        "name": "DewPointCelsiusOrigin",
+        "type": "double"
+      },
+      {
+        "name": "DryBulbCelsiusOrigin",
+        "type": "double"
+      },
+      {
+        "name": "WindSpeedDest",
+        "type": "double"
+      },
+      {
+        "name": "CRS_ARR_TIME",
+        "type": "double"
+      }
+    ]
+  },
+  "rows": [
+    [
+      30.0175,
+      93.0,
+      4.5,
+      30.055,
+      "DL",
+      "ATL",
+      3.95,
+      "EWR",
+      1,
+      1,
+      96.5,
+      8,
+      0.5,
+      "0",
+      1.0,
+      7.5,
+      11.025,
+      12.05,
+      6.0,
+      10
+    ]
+  ]
+}
