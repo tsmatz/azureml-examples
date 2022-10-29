@@ -8,5 +8,6 @@ Below are advanced examples of Azure Machine Learning.
 - [Spark ML serving (Online prediction by MLeap model)](./azureml_spark_serving_by_mleap/azureml_spark_serving_by_mleap.ipynb)
 - [Spark ML serving (Online prediction by Apache Spark instance)](./azureml_spark_serving_by_installation/azureml_spark_serving_by_installation.ipynb)
 - [Deploy TensorRT Inferencing](./azureml_tensorrt_inference/azureml_tensorrt_inference.ipynb)
+- [Hugging Face Fine-tuning Distribution with DeepSpeed optimization](./azureml_huggingface_distributed_with_deepspeed/azureml_huggingface_distributed_with_deepspeed.ipynb)
 
 > Note : To begin with Azure Machine Learning, see [tutorials](https://github.com/tsmatz/azureml-tutorial).
